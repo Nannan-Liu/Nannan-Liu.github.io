@@ -6,6 +6,5 @@ note: 'This is the translated version of the title by Paul A. Cohen published in
 date: 2021-01-01
 venue: 'The Chinese University of Hong Kong Press'
 paperurl: 'https://cup.cuhk.edu.hk/index.php?route=product/product&product_id=4134'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 [See original book here](https://www.hup.harvard.edu/catalog.php?isbn=9780674237292)
