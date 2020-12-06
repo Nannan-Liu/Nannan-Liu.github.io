@@ -1,7 +1,7 @@
 ---
-title: "Paper Title Number 3"
+title: "走过两遍的路"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2021-01-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 date: 2015-10-01
 venue: 'Journal 1'
