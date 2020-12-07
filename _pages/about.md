@@ -10,4 +10,4 @@ redirect_from:
 About me
 --------
 
-I am a researcher of interpreting studies and computational linguistics. I got my PhD in Translation from the University of Hong Kong and master’s in conference interpreting from Beijing Foreign Studies University (Běiwài).
+I am a researcher of interpreting studies and computational linguistics. I got my PhD in Translation from the University of Hong Kong and master’s in interpreting from Beijing Foreign Studies University (Běiwài).
