@@ -8,9 +8,6 @@ main:
     
   - title: "Software Creation"
     url: /software/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "CV"
     url: /cv/
