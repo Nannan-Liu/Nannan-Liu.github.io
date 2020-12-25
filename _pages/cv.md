@@ -11,30 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. (First Class Honours) in English Language and Literature, Beijing Foreign Studies University, 2014
+* Master of Translation and Interpretation (English Interpretation), Beijing Foreign Studies University, 2016
+* Ph.D. in Translation, The University of Hong Kong, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
+* May-June 2016: Simultaneous Interpreter
+  * United Nations Geneva Office
+  * Duties included: Chinese booth interpreter at 105th Session of the International Labour Conference
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * R
+  * Praat
+  * JavaScript
+  * CSS
+* Languages
+  * Mandarin Chinese (native)
+  * English (proficient)
+  * German (intermediate)
+  * Cantonese (intermediate)
+  * French (basic)
+* Experimentation
+  * Qualtrics
+  * Mechanical Turk
+  * Audacity
 
 Publications
 ======
@@ -54,6 +60,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
