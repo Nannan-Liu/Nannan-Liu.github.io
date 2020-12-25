@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. (First Class Honours) in English Language and Literature, Beijing Foreign Studies University, 2014
-* Master of Translation and Interpretation (English Interpretation), Beijing Foreign Studies University, 2016
 * Ph.D. in Translation, The University of Hong Kong, 2020
+* Master of Translation and Interpretation (English Interpretation), Beijing Foreign Studies University, 2016
+* B.A. (First Class Honours) in English Language and Literature, Beijing Foreign Studies University, 2014
 
 Work experience
 ======
