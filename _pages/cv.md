@@ -20,7 +20,6 @@ Work experience
 * May-June 2016: Simultaneous Interpreter
   * United Nations Geneva Office
   * Duties included: Chinese booth interpreter at 105th Session of the International Labour Conference
-  * Supervisor: Professor Git
 
   
 Skills
