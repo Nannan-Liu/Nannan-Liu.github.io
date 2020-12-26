@@ -180,7 +180,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  codes:
+  code:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -226,7 +226,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _codes
+  # _code
   - scope:
       path: ""
       type: code
