@@ -1,5 +1,5 @@
 ---
-title: "Very helpful Python and machine learning tutorial for beginners"
+title: "Very helpful Python and machine learning tutorials for beginners"
 excerpt: "Python, machine learning, deep learning tutorials, including MRI image data processing."
 collection: code
 ---
