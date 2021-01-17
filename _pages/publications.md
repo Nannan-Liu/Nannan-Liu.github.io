@@ -14,3 +14,24 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<h2>Journal Articles</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'journal' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Book Chapters</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'book chapter' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+<h2>Academic</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'academic' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
