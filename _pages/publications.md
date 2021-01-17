@@ -29,6 +29,13 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
+<h2>Book Translations</h2>
+{% for post in site.publications reversed %}
+  {% if post.pubtype == 'translation' %}
+      {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
 <h2>Academic</h2>
 {% for post in site.publications reversed %}
   {% if post.pubtype == 'academic' %}
