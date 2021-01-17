@@ -1,6 +1,6 @@
 ---
 title: "Multidimensional Analysis Tagger of Mandarin Chinese"
-excerpt: "Multidimensional Analysis Tagger of Mandarin Chinese extends Biber’s analysis of English registers (1988) to Mandarin Chinese."
+excerpt: "MulDi Chinese extends Biber’s analysis of English registers (1988) to Mandarin Chinese."
 collection: code
 ---
 
