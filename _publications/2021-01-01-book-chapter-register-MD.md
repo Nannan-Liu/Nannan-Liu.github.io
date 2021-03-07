@@ -7,4 +7,4 @@ date: 2021-01-01
 venue: 'Translating and Interpreting Political Discourse: New Trends and Perspectives'
 ---
 
-[Accepted manuscript [PDF]](https://github.com/Nannan-Liu/Nannan-Liu.github.io/blob/master/files/Liu%202021-Register%20shifts%20in%20political%20conference%20interpreting.pdf)
+[[PDF]](https://github.com/Nannan-Liu/Nannan-Liu.github.io/blob/master/files/Liu%202021-Register%20shifts%20in%20political%20conference%20interpreting.pdf)
